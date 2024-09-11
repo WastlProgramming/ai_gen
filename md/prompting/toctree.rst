@@ -17,3 +17,4 @@ Hier finden Sie die Dokumentation zu den Modulen, die für das Prompting verwend
    madchen.rst
    programmier_assistent.rst
    prompt_generator.rst
+   hacks.rst

@@ -44,3 +44,11 @@ Level 3
 
 Hier ist nn der Vorteil das wir hier Kontext, Kontext und nochmals Kontext haben.
 
+
+Level 4
+-----------------------
+
+1. Weiß ChatGPT hier erst eine Rolle zu 
+2. Danach gibts du ihn beispiel Kontext wie z.b BLogArikel
+3. Noch Mehr Artikel 
+4. Nun gibst du eine beschreibung zu dir ab 
